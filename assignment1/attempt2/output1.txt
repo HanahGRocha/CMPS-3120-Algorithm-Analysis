@@ -1,0 +1,58 @@
+Cluster Heads:
+CH 0: (84.0188, 39.4383)
+CH 1: (78.3099, 79.844)
+CH 2: (91.1647, 19.7551)
+CH 3: (33.5223, 76.823)
+CH 4: (27.7775, 55.397)
+
+Node Assignments and Hop Counts:
+Node 0: (47.7397, 62.8871) -> CH 3 with 1 hops
+Node 1: (36.4784, 51.3401) -> CH 4 with 0 hops
+Node 2: (95.223, 91.6195) -> CH 1 with 2 hops
+Node 3: (63.5712, 71.7297) -> CH 1 with 1 hops
+Node 4: (14.1603, 60.6969) -> CH 4 with 1 hops
+Node 5: (1.63006, 24.2887) -> CH 4 with 4 hops
+Node 6: (13.7232, 80.4177) -> CH 3 with 2 hops
+Node 7: (15.6679, 40.0944) -> CH 4 with 1 hops
+Node 8: (12.979, 10.8809) -> CH 4 with 4 hops
+Node 9: (99.8925, 21.8257) -> CH 2 with 0 hops
+Node 10: (51.2932, 83.9112) -> CH 3 with 1 hops
+Node 11: (61.264, 29.6032) -> CH 0 with 2 hops
+Node 12: (63.7552, 52.4287) -> CH 0 with 2 hops
+Node 13: (49.3583, 97.2775) -> CH 3 with 2 hops
+Node 14: (29.2517, 77.1358) -> CH 3 with 0 hops
+Node 15: (52.6745, 76.9914) -> CH 3 with 1 hops
+Node 16: (40.0229, 89.1529) -> CH 3 with 1 hops
+Node 17: (28.3315, 35.2458) -> CH 4 with 2 hops
+Node 18: (80.7725, 91.9026) -> CH 1 with 1 hops
+Node 19: (6.97553, 94.9327) -> CH 3 with 3 hops
+Node 20: (52.5995, 8.60558) -> CH 2 with 4 hops
+Node 21: (19.2214, 66.3227) -> CH 4 with 1 hops
+Node 22: (89.0233, 34.8893) -> CH 0 with 0 hops
+Node 23: (6.41713, 2.0023) -> CH 4 with 5 hops
+Node 24: (45.7702, 6.30958) -> CH 2 with 4 hops
+Node 25: (23.828, 97.0634) -> CH 3 with 2 hops
+Node 26: (90.2208, 85.092) -> CH 1 with 1 hops
+Node 27: (26.6666, 53.976) -> CH 4 with 0 hops
+Node 28: (37.5207, 76.0249) -> CH 3 with 0 hops
+Node 29: (51.2535, 66.7724) -> CH 3 with 2 hops
+Node 30: (53.1606, 3.92803) -> CH 2 with 4 hops
+Node 31: (43.7638, 93.1835) -> CH 3 with 1 hops
+Node 32: (93.081, 72.0952) -> CH 1 with 1 hops
+Node 33: (28.4293, 73.8534) -> CH 3 with 0 hops
+Node 34: (63.9979, 35.4049) -> CH 0 with 2 hops
+Node 35: (68.7861, 16.5974) -> CH 2 with 2 hops
+Node 36: (44.0105, 88.0075) -> CH 3 with 1 hops
+Node 37: (82.9201, 33.0337) -> CH 0 with 0 hops
+Node 38: (22.8968, 89.3372) -> CH 3 with 1 hops
+Node 39: (35.036, 68.667) -> CH 3 with 0 hops
+Node 40: (95.6468, 58.864) -> CH 0 with 2 hops
+Node 41: (65.7304, 85.8676) -> CH 1 with 1 hops
+Node 42: (43.956, 92.397) -> CH 3 with 1 hops
+Node 43: (39.8437, 81.4767) -> CH 3 with 0 hops
+Node 44: (68.4219, 91.0972) -> CH 1 with 1 hops
+Node 45: (48.2491, 21.5825) -> CH 4 with 3 hops
+Node 46: (95.0252, 92.0128) -> CH 1 with 2 hops
+Node 47: (14.766, 88.1062) -> CH 3 with 2 hops
+Node 48: (64.1081, 43.1953) -> CH 0 with 2 hops
+Node 49: (61.9596, 28.1059) -> CH 0 with 2 hops

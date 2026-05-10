@@ -1,0 +1,20 @@
+
++++ Registering you ... done
+
++++ Verifying your solutions
+
+--- Your solution  1215 is correct
+--- Your solution  4734 is correct
+--- Your solution 18959 is correct
+--- Your solution 29788 is correct
+--- Your solution 41466 is correct
+--- Your solution 56339 is correct
+--- Your solution 59752 is correct
+--- Your solution 59756 is correct
+--- Your solution 61954 is correct
+--- Your solution 65371 is correct
+
+*** You made  83   OR queries
+*** You made  74  XOR queries
+
+*** Your point is 10
